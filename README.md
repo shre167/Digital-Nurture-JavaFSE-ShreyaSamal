@@ -1,4 +1,4 @@
-# Week 1 Java and PL/SQL Practice
+# Digital-Nurture-JavaFSE-ShreyaSamal
 
 This repository contains the Week 1 assignments completed for Java programming, DSA exercises, design pattern implementations, and PL/SQL practice.
 
